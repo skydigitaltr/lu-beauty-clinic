@@ -2,7 +2,7 @@ import {
   BadgeCheck,
   Droplets,
   HeartPulse,
-  Laser,
+  Zap,
   Leaf,
   ScanFace,
   Sparkles,
@@ -33,7 +33,7 @@ export const services = [
   {
     title: 'Lazer Epilasyon',
     description: 'Konfor odaklı uygulama süreci ile pürüzsüz ve güven veren sonuçlar.',
-    icon: Laser
+    icon: Zap
   },
   {
     title: 'Hydrafacial',
